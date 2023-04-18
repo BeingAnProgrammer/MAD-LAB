@@ -1,3 +1,6 @@
+
+//<uses-permission android:name="android.permission.INTERNET" />
+
 package com.example.email;
 
 
