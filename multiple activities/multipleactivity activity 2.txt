@@ -12,11 +12,11 @@ public class Secondactivity extends Activity {
 		setContentView(R.layout.activity_secondactivity);
 	}
 
-	@Override
-	public boolean onCreateOptionsMenu(Menu menu) {
+	//@Override  NO need to add in code
+	//public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.secondactivity, menu);
-		return true;
-	}
+		//getMenuInflater().inflate(R.menu.secondactivity, menu);
+		//return true;
+	//}
 
 }
